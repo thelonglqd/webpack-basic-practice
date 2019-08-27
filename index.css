@@ -1,0 +1,15 @@
+.column1 h2 {
+  color: white;
+}
+
+.column2 h2 {
+  color: darkgray;
+}
+
+.column1 {
+  background-color: darksalmon;
+}
+
+.column2 {
+  background-color: teal;
+}
